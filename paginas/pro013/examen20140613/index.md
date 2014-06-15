@@ -26,7 +26,7 @@ La marca de un coche puede ser una de entre las siguientes: AUDI, BMW, CHEVROLET
 
 El número de kilometros es un número entero a partir de 1.
 
-Para realizar el programa vamos a emplear dos clases: la clase `Taller` y la clase `Coche`.
+Para realizar el programa vamos a emplear dos clases: la clase `Taller` y la clase `Coche`. Se pueden crear más clases en caso de considerarlo oportuno.
 
 </div>
 <div class="col-md-4 col-md-offset-1">
@@ -42,7 +42,7 @@ Para realizar el programa vamos a emplear dos clases: la clase `Taller` y la cla
 
 2. Asocia dicho repositorio con el repositorio remoto adecuado conforme las instrucciones del anexo II.
 
-3. <span class="label label-info">20 puntos</span> Codifica el código necesario para que se pueda crear un objeto de tipo `Taller` desde la interfaz de BlueJ. Ese objeto taller debe construir y almacenar un número de coches determinado por un parámetro del constructor. Los coches deben tener sus datos generados de forma aleatoria.
+3. <span class="label label-info">20 puntos</span> Codifica el código necesario para que se pueda cºrear un objeto de tipo `Taller` desde la interfaz de BlueJ. Ese objeto taller debe construir y almacenar un número de coches determinado por un parámetro del constructor. Los coches deben tener sus datos generados de forma aleatoria.
 
     Haz un commit en la rama master y realiza un push.
 
@@ -99,7 +99,7 @@ En caso de detectar alguna de estas prácticas, el alumno suspende directamente 
 Para enlazar tu repositorio local con el remoto de GitHub debes usar el comando:
 
     git remote add origin git@github.com:iessanandrespro013/XXX.git
-    git remote set-url origin https://USERNAME@github.com/essanandrespro013/XXX.git
+    git remote set-url origin https://USERNAME@github.com/iessanandrespro013/XXX.git
 
 donde `USERNAME` debes sustituirlo por el nombre de tu usuario y las `XXX` debes sustituirla por el siguiente número en función de quien seas:
 

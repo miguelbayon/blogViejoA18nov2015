@@ -244,7 +244,7 @@ En caso de detectar alguna de estas prácticas, el alumno suspende directamente 
 Para enlazar tu repositorio local con el remoto de GitHub debes usar el comando:
 
     git remote add origin git@github.com:iessanandrespro013/XXX.git
-    git remote set-url origin https://USERNAME@github.com/essanandrespro013/XXX.git
+    git remote set-url origin https://USERNAME@github.com/iessanandrespro013/XXX.git
 
 donde `USERNAME` debes sustituirlo por el nombre de tu usuario y las `XXX` debes sustituirla por el siguiente número en función de quien seas.
 
