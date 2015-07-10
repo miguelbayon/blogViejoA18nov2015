@@ -1,0 +1,10 @@
+---
+published: true
+title: Prueba
+layout: post
+---
+Esto es una prueba
+
+## Titulo
+
+Dos mil uno
